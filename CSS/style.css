@@ -1,0 +1,27 @@
+
+
+
+.container{
+
+
+    /* debug */
+    background-color: aqua;
+    /* height: 200px; */
+}
+
+.row{
+
+
+    /* debug */
+    background-color: rgb(0, 255, 153);
+    /* height: 200px; */
+}
+
+.col{
+
+
+    /* debug */
+    background-color: rgb(234, 0, 255);
+    border: 1px solid white;
+    height: 200px;
+}
